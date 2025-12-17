@@ -1,6 +1,6 @@
 # GrayAutoSell
 
-wotLK World of Warcraft(3.3.5a) AddOn. Automatically sells all your gray bag items when you interact with a merchant. 
+WotLK World of Warcraft(3.3.5a) AddOn. Automatically sells all your gray bag items when you interact with a merchant. 
 
 This is a World of Warcraft addon specificaly developed for wotlk wow patch 3.3.5a.
 
